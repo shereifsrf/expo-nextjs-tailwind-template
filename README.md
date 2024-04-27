@@ -1,1 +1,3 @@
-# Not boring you with long docs, TLDR; just `yarn install`
+# Not boring you with long docs
+
+`yarn install`
