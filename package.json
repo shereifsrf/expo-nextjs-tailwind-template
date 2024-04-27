@@ -1,5 +1,22 @@
 {
-  "name": "frontend-test4",
+  "name": "monorepo",
+  "description": "Monorepo  template with expo, nextjs, tailwind",
+  "author": {
+    "name": "shereif talat",
+    "email": "chachushereef@gmail.com"
+  },
+  "keywords": [
+    "react-native",
+    "nextjs",
+    "react",
+    "native",
+    "tailwind",
+    "tailwindcss",
+    "theme",
+    "style",
+    "monorepo",
+    "template"
+  ],
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
