@@ -1,0 +1,1 @@
+# Not boring you with long docs, TLDR; just `yarn install`

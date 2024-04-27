@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "jsx": "preserve"
+  },
+  "include": ["../../nativewind-env.d.ts", "**/*.ts", "**/*.tsx"]
+}

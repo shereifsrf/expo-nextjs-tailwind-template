@@ -1,0 +1,12 @@
+{
+  "name": "frontend-test4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "web",
+    "native"
+  ]
+}
